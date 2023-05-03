@@ -1,0 +1,34 @@
+{
+  "whk_name_client": "Pricewaterhousecoopers Accountants NV",
+  "wga_inflow_switch": false,
+  "whk_sector_code": 42,
+  "whk_percentage_whk": 1.24,
+  "whk_premium_component_wga": 1.04,
+  "whk_premium_component_zw": 0.2,
+  "whk_own_premium_table": [
+    {
+      "own_premium_wage_2017": 13402817,
+      "own_premium_wage_2018": 13663421,
+      "own_premium_wage_2019": 12154263,
+      "own_premium_wage_2020": 12154263,
+      "own_premium_wage_2021": 13282009
+    }
+  ],
+  "whk_premium_wage_switch": true,
+  "whk_average_wage": 12675485.44,
+  "payments_wga_2021": 92075,
+  "payments_zw_2021": 8389,
+  "payments_wga_2020": 92131,
+  "payments_zw_2020": 50232,
+  "whk_employees": 360,
+  "wga_inflow_amount": 1,
+  "whk_activities_premium_table": [
+    {
+      "act_premium_wage_2017": -396723.38,
+      "act_premium_wage_2018": -404437.26,
+      "act_premium_wage_2019": 359766.19,
+      "act_premium_wage_2020": 367127.97,
+      "act_premium_wage_2021": 367127.97
+    }
+  ]
+}
